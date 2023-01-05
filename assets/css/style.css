@@ -1093,3 +1093,17 @@ h4 {
 	width: 70px;
 	height: 1px;
 }
+
+.ajust-quote {
+	font-size: 20px;
+	font-style: italic;
+	line-height: 23px;
+	word-spacing: -0.67px;
+	font-weight: 400;
+}
+
+.autor {
+	font-size: 22px;
+	line-height: 19px;
+	word-spacing: -0.77px;
+}
