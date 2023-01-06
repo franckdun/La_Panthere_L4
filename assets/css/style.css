@@ -825,11 +825,11 @@ h4 {
 }
 
 .bg-banniere {
-	background-image: url("./../../img/agence-la-panthere.jpg");
+	background-image: url("./../../img/agence-la-panthere-2.png");
 }
 
 .bg-presentation {
-	background-image: url("./../../img/image-de-presentation.bmp");
+	background-image: url("./../../img/image-de-presentation-1.png");
 }
 
 @media (max-width: 1024px) {
@@ -1100,10 +1100,12 @@ h4 {
 	line-height: 23px;
 	word-spacing: -0.67px;
 	font-weight: 400;
+	margin: auto 35px auto 35px;
 }
 
 .autor {
 	font-size: 22px;
 	line-height: 19px;
 	word-spacing: -0.77px;
+	margin: 10px 35px auto 35px;
 }
