@@ -5,7 +5,7 @@
 	<tr>
 	   <td width="50%">
 	   <h2>La_Panthere_L4</h2>
-     <p>Livrable 4 : Compétences évaluées</p>
+     <p>Livrable 4 : Compétences évaluées.</p>
      
 * [Optimiser la taille et la vitesse d’un site web](https://franckdun.github.io/La_Panthere_L4/index.html)
 	
