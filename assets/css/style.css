@@ -827,7 +827,7 @@ h4 {
 }
 
 .bg-banniere {
-	background-image: url("./../../img/agence-la-panthere-2.png");
+	background-image: url("./../../img/agence-la-panthere.jpg");
 }
 
 .bg-presentation {
@@ -1110,4 +1110,12 @@ h4 {
 	line-height: 19px;
 	word-spacing: -0.77px;
 	margin: 10px 35px auto 35px;
+}
+
+
+
+
+
+.ajuste-p {
+	margin: 30px;
 }
