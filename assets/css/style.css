@@ -657,7 +657,7 @@ label,
 .btn,
 a {
 	font-family: "helvetica";
-	font-weight: 400;
+	font-weight: 700;
 	color: #575757 !important;
 }
 
@@ -743,7 +743,7 @@ h4 {
 }
 
 .white {
-	color: #FFFFFF !important;
+	color: #130F0F !important;
 }
 
 .portfolio-thumb {
@@ -782,8 +782,8 @@ h4 {
 }
 
 .tc-white {
-	color: #F3976C !important;
-	text-shadow: 2px 2px 2px black;
+	color:  #130f0f !important;
+	text-shadow: 2px 2px 2px #f3976c;
 	font-size: 35px;
 }
 
@@ -802,7 +802,7 @@ h4 {
 }
 
 .ltc-white:hover {
-	color: #cccccc !important;
+	color: #060606 !important;
 }
 
 .ltc-atomic-tangerine {
