@@ -1,6 +1,6 @@
 # <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms"><img src="https://img.shields.io/badge/🏠-🎓%20Web developer training Openclassrooms 2022%20🎓-7986CB" width="750" ></a></p>
 
-[![ - Maquette La Panthère - ](https://github.com/franckdun/maquette-la_panthere)](https://franckdun.github.io/maquette-la_panthere/)
+![ Maquette La Panthère ](https://github.com/franckdun/maquette-la_panthere)
 
 <!-- presentation -->
 <div align="center">
