@@ -1119,3 +1119,14 @@ h4 {
 .ajuste-p {
 	margin: 30px;
 }
+
+
+@font-face {
+  font-family: 'et-line';
+  font-style: normal;
+  font-weight: 400;
+  src: local('et-line'),
+    url(https://db.onlinewebfonts.com/c/ee5d74f0b75c5754c723eb16d34e3d65?family=et-line)
+      format('woff');
+  font-display: swap;
+}
