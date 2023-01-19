@@ -684,7 +684,7 @@ a {
 }
 
 p {
-	font-size: 11px;
+	font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -1121,12 +1121,3 @@ h4 {
 }
 
 
-@font-face {
-  font-family: 'et-line';
-/*  font-style: normal;*/
-/*  font-weight: 400;*/
-  src: local('./../../assets/fonts/et-line.woff'),
-    url(https://db.onlinewebfonts.com/c/ee5d74f0b75c5754c723eb16d34e3d65?family=et-line)
-      format('woff');
-  font-display: swap;
-}
