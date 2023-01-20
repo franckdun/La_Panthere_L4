@@ -1121,3 +1121,38 @@ h4 {
 }
 
 
+
+.item-nav{
+    display: block;
+    width: max-content;
+    margin: 0 auto;
+    
+}
+.item-nav:focus{
+    border: 2px solid #F3976C;
+    border: 2px solid rgb(255, 134, 47);;
+}
+
+
+.item-nav::after{
+    content: "";
+    display: block;
+    width: 0%;
+    height: 2px;
+    margin: 0 auto;
+    background-color: #F3976C;
+    transition: width 0.3s ease-in-out;
+}
+.item-nav:hover.item-nav::after{
+    width: 100%;
+}
+.item-nav:active .item-nav::after{
+    width: 100%;
+}
+.active.item-nav::after{
+    width: 100%;
+}
+
+.footerBloc--heigth {
+	height: 200px;
+}
