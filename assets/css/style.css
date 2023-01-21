@@ -762,6 +762,7 @@ h4 {
 .black-background {
 	background-color: rgba(165, 147, 99, 0.7);
 	padding: 40px 40px 40px 40px;
+	box-shadow: 0px 6px 42px 1px aliceblue;
 }
 
 .bold-link {
@@ -789,7 +790,7 @@ h4 {
 
 .btn-atomic-tangerine {
 	background: #F3976C;
-	color: #FFFFFF !important;
+	color: #272222 !important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1106,7 +1107,7 @@ h4 {
 }
 
 .autor {
-	font-size: 22px;
+	font-size: 14px;
 	line-height: 19px;
 	word-spacing: -0.77px;
 	margin: 10px 35px auto 35px;
@@ -1154,4 +1155,9 @@ h4 {
 
 .footerBloc--heigth {
 	height: 200px;
+}
+.center-block {
+	border-radius: 16%;
+/*	background: black;*/
+	box-shadow: 1px 10px 15px 0px black;
 }
