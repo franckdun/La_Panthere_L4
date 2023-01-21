@@ -133,7 +133,8 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-	color: rgba(255, 255, 255, .6);
+/*	color: rgba(255, 255, 255, .6);*/
+	color: rgb(3, 0, 0);
 }
 
 .d-bloc .a-btn:hover,
@@ -151,6 +152,8 @@ a:hover {
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
 	color: rgba(255, 255, 255, 1);
+	box-shadow: 1px 1px 20px 4px #e7f0ed;
+	border-radius: 50%;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -783,7 +786,7 @@ h4 {
 }
 
 .tc-white {
-	color:   wheat !important;
+	color:   #0e0900 !important;
 	text-shadow: 2px 2px 2px #f3976c;
 	font-size: 35px;
 }
@@ -796,6 +799,8 @@ h4 {
 .btn-atomic-tangerine:hover {
 	background: #c27956 !important;
 	color: #FFFFFF !important;
+	box-shadow: 0px 0px 13px 2px white;
+	text-shadow: 2px 2px 2px #191818;
 }
 
 .ltc-white {
@@ -817,6 +822,7 @@ h4 {
 .icon-dark-slate-blue {
 	color: #364577 !important;
 	border-color: #364577 !important;
+	background: bisque;
 }
 
 .bg-dots-bg {
@@ -1138,7 +1144,7 @@ h4 {
     content: "";
     display: block;
     width: 0%;
-    height: 2px;
+    height: 3px;
     margin: 0 auto;
     background-color: #F3976C;
     transition: width 0.3s ease-in-out;
@@ -1160,4 +1166,8 @@ h4 {
 	border-radius: 16%;
 /*	background: black;*/
 	box-shadow: 1px 10px 15px 0px black;
+}
+
+.fa-facebook {
+	padding: 0px 7px 0px 7px;
 }
