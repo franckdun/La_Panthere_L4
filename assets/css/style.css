@@ -786,7 +786,7 @@ h4 {
 }
 
 .tc-white {
-	color:   #0e0900 !important;
+	color: wheat !important;
 	text-shadow: 2px 2px 2px #f3976c;
 	font-size: 35px;
 }
@@ -1170,4 +1170,10 @@ h4 {
 
 .fa-facebook {
 	padding: 0px 7px 0px 7px;
+}
+
+.tc-black {
+	color: black !important;
+	text-shadow: 2px 2px 2px #f3976c;
+	font-size: 35px;
 }
