@@ -2,6 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #FFF;
+	box-sizing: border-box;
 	overflow-x: hidden;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -111,7 +112,9 @@ a:hover {
 .d-bloc .icon-square,
 .d-bloc .icon-rounded,
 .d-bloc .icon-semi-rounded-a,
+
 .d-bloc .icon-semi-rounded-b {
+	
 	border-color: rgba(255, 255, 255, .9);
 }
 
@@ -133,7 +136,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-	/*	color: rgba(255, 255, 255, .6);*/
+		color: rgba(255, 255, 255, .6);
 	color: rgb(3, 0, 0);
 }
 
@@ -147,9 +150,9 @@ a:hover {
 .d-bloc h1 a:hover,
 .d-bloc h2 a:hover,
 .d-bloc h3 a:hover,
-.d-bloc h4 a:hover,
-.d-bloc h5 a:hover,
-.d-bloc h6 a:hover,
+/*.d-bloc h4 a:hover,*/
+/*.d-bloc h5 a:hover,*/
+/*.d-bloc h6 a:hover,*/
 .d-bloc p a:hover {
 	color: rgba(255, 255, 255, 1);
 	box-shadow: 1px 1px 20px 4px #e7f0ed;
@@ -230,9 +233,9 @@ a:hover {
 .l-bloc h1 a,
 .l-bloc h2 a,
 .l-bloc h3 a,
-.l-bloc h4 a,
-.l-bloc h5 a,
-.l-bloc h6 a,
+/*.l-bloc h4 a,*/
+/*.l-bloc h5 a,*/
+/*.l-bloc h6 a,*/
 .l-bloc p a {
 	color: rgba(0, 0, 0, .6);
 }
@@ -391,7 +394,9 @@ a:hover {
 	.nav-center .navbar-header {
 		width: 100%;
 	}
-
+	
+/*stop*/
+	
 	.nav-center .navbar-header,
 	.nav-center .navbar-brand,
 	.nav-center .nav > li {
@@ -788,8 +793,8 @@ h4 {
 
 .tc-white {
 	color: wheat !important;
-	text-shadow: 2px 2px 2px #f3976c;
-	font-size: 35px;
+	/*! text-shadow: 2px 2px 2px #f3976c; */
+	/*! font-size: 35px; */
 }
 
 .btn-atomic-tangerine {
