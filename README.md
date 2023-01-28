@@ -2,9 +2,9 @@
 
 ![ 1 - Maquette La Panthère ](https://github.com/franckdun/maquette-la_panthere)
 
-![ 2 - analyse accessibilité et performence seo ](https://github.com/franckdun/Projet-4_rapport-optimisation)
+![ 2 - Analyse accessibilité et performance seo ](https://github.com/franckdun/Projet-4_rapport-optimisation)
 
-![ 3 - rapport d'optimisation ](https://github.com/franckdun/Projet-4_rapport-optimisation)
+![ 3 - Rapport d'optimisation ](https://github.com/franckdun/Projet-4_rapport-optimisation)
 
 <!-- presentation -->
 <div align="center">
