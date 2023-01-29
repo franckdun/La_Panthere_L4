@@ -665,8 +665,9 @@ label,
 .btn,
 a {
 	font-family: "helvetica";
-	font-weight: 700;
+	font-weight: 400;
 	color: #575757 !important;
+	/*! text-transform: uppercase; */
 }
 
 .container {
@@ -795,6 +796,7 @@ h4 {
 	color: wheat !important;
 	/*! text-shadow: 2px 2px 2px #f3976c; */
 	/*! font-size: 35px; */
+	/*! text-transform: uppercase; */
 }
 
 .btn-atomic-tangerine {

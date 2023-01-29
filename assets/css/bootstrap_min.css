@@ -1180,7 +1180,8 @@ h6 {
  font-family:inherit;
  font-weight:500;
  line-height:1.1;
- color:inherit
+ color:inherit;
+ text-transform: uppercase;
 }
 .h1 .small,
 .h1 small,
