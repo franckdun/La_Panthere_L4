@@ -429,7 +429,7 @@ a:hover {
 	}
 	
 	.bg-banniere {
-    max-height: 374px;
+    /*! max-height: 374px; */
 	}
 }
 
@@ -1230,7 +1230,8 @@ h4 {
 }
 
 .col-orange {
-	color: #F3976C;
+	color: wheat;
+	letter-spacing: 0.465em;
 }
 
 #bloc-0 {
