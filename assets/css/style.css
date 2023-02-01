@@ -1237,3 +1237,7 @@ h4 {
 #bloc-0 {
 /*	ancre du bouton CONTACT*/
 }
+
+.spacing {
+	letter-spacing: 0.257em;
+}
