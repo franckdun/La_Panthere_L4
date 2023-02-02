@@ -1248,6 +1248,7 @@ h3 {
 
 .spacing {
 	letter-spacing: 0.257em;
+	line-height: 1.5;
 }
 
 .orange-shad {
@@ -1259,5 +1260,5 @@ h3 {
 }
 
 .orange-bord {
-	border-bottom: solid #ec6f00;
+	border-bottom: 5px solid #ec6f00;
 }
