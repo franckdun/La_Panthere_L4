@@ -214,7 +214,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-	color: rgba(0, 0, 0, .5);
+	color: rgba(0, 0, 0, 0.67);
 }
 
 .d-bloc .panel button:hover,
@@ -1213,11 +1213,11 @@ h3 {
 @media (min-width: 767px) {
 
 	.col-sm-6 {
-		background: #0f0e0e;
+		/*! background: #0f0e0e; */
 		height: 472px;
 /*		box-shadow: 0px 0px 2px 3px #ff7800;*/
 		padding: 15px;
-		color: wheat;
+		/*! color: wheat; */
 	}
 
 
@@ -1230,7 +1230,7 @@ h3 {
 }
 
 .colPlus {
-	background: #151514;
+	/*! background: #151514; */
 	height: 320px;
 /*	box-shadow: 0px 0px 1px 3px #f3976c;*/
 /*	box-shadow: 0px 0px 2px 3px #ff7800;*/
