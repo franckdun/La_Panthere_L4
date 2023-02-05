@@ -6,8 +6,6 @@
 
 ![ 3 - Rapport d'optimisation ](https://github.com/franckdun/Projet-4_rapport-optimisation)
 
-![ 4 - Site Agence web design La Panthère ](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
-
 <!-- presentation -->
 <div align="center">
   <table>
